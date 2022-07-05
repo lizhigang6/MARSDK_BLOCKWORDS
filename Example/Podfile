@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MARSDK_BLOCKWORDS_Tests' do
+  pod 'MARSDK_BLOCKWORDS', :path => '../'
+  
+  
+end
